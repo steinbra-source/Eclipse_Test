@@ -11,5 +11,6 @@ public class App
         System.out.println("Hello World of Maven!!!");
         System.out.println("This project is now in my GitHub repository!");
         System.out.println("Now using Token for GitHub");
+        System.out.println("New version has a readme file now!");
     }
 }
